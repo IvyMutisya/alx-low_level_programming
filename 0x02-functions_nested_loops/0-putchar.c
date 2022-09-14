@@ -7,6 +7,7 @@
 */
 int main(void)
 {
+#include 'main.h'
 char *sh = "Putchar";
 while (*sh)
 {
